@@ -25,7 +25,7 @@ The project is currently on hold due to a lack of access to Microsoft Azure Entr
 
 1. **GET Request for Hidri Prayer Times:** 
    - Retrieve daily Hidri prayer times from a reliable API source.
-     ** Completed **
+     **Completed**
 
 2. **POST Request to Outlook Calendar:**
    - Create events for each prayer time in the Outlook calendar via the Microsoft Graph API, helping users get timely prayer reminders directly within their schedules.
@@ -40,7 +40,7 @@ Within Github PRO / Student Developer Program, I have like $135 monthy spending 
 
 I found an alternative solution online called [PrayerCal](https://www.prayercal.com/), which was funny enough exactly what I was looking to do.
 
-** However, just because I found an alternative solution; doesn't mean I am stopping this one! **
+**However, just because I found an alternative solution; doesn't mean I am stopping this one!**
 
 ---
 
